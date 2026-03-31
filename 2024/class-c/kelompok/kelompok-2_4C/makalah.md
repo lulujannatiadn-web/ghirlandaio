@@ -26,6 +26,20 @@ Di Era digital saat ini, teknologi tidak hanya berfungsi sebagai alat bantu, tet
 
 Kami menyadari bahwa makalah ini masih jauh dari sempurna. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan demi perbaikan di masa mendatang. Semoga makalah ini dapat memberikan manfaat bagi pembaca.  
 
+## DAFTAR ISI
+Kata Pengantar
+BAB I Pendahuluan 
+1.1 Latar Belakang
+1.2 Rumusan Masalah
+1.3 Tujuan Penulisan
+BAB II Pembahasan
+2.1 Posisi Teknologi sebagai mitos 
+2.2 Subtansi Teknologi dalam susdut pandang hiperrealitas
+2.3 Contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitasasi
+2.4 Perbedaan antara teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi
+BAB III Penutup
+2.5 Kesimpulan 
+Daftar Pustaka.
 
 
 
